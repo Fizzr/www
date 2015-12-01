@@ -1,0 +1,63 @@
+body
+{
+    background-color: #1B1B1B;
+    color: white;
+}
+
+.banner
+{
+    background-color: #555555;
+    width: 800px;
+    height: 140px;
+    color: black;
+<<<<<<< HEAD
+=======
+    border-radius: 10px;
+    border: 3px solid #000000;
+>>>>>>> refs/remotes/origin/hej
+}
+.lowercase
+{
+    font-size: 60px;
+}
+.uppercase
+{
+    font-size: 120px;
+}
+<<<<<<< HEAD
+.body
+{
+    background-color: #555555;
+=======
+.content
+{
+    background-color: #555555;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+>>>>>>> refs/remotes/origin/hej
+    width: 780px;
+    height: 800px;
+    padding: 10px;
+    margin-top: 10px;
+<<<<<<< HEAD
+}
+=======
+    border-radius: 7px;
+    border: 3px solid #000000;
+}
+.menu
+{
+    color: #000000;
+    padding-top: 10px;
+    background-color: #555555;
+    width: 800px;
+    height: 30px;
+    color: black;
+    border-radius: 10px;
+    border: 3px solid #000000;
+}
+
+a:link    {color:#000000; background-color:transparent; text-decoration:underline}
+a:visited {color:#000000; background-color:transparent; text-decoration:underline}
+a:hover   {color:#ff0000; background-color:transparent; text-decoration:underline}
+a:active  {color:#ff0000; background-color:transparent; text-decoration:underline}
+>>>>>>> refs/remotes/origin/hej
